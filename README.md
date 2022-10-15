@@ -29,3 +29,7 @@ For reviewing
    - 1.open notebook, select github, then connect the website
    - 2.copy the file code: !git clone https://github.com/MicrosoftDocs/ml-basics
    - 3.change the data file path
+
+ - 2.Microsoft Azure AI Fundamentals: Explore visual tools for machine learning
+   - 1. A
+     - 1. A
