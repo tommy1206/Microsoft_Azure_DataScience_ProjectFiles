@@ -17,7 +17,10 @@ For reviewing
     - 2.Exercise - Perform classification with alternative metrics
     - 3.Exercise - Train and evaluate multiclass classification models
   - 4.Train and evaluate clustering models
-    - 1.
-
+    - 1.Exercise - Train and evaluate a clustering model
+    - 2.Exercise - Train and evaluate advanced clustering models
+  - 5.Train and evaluate deep learning models
+    - 1.Exercise - Train a deep neural network
+    - 2.
 
 
