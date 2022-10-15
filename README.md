@@ -8,4 +8,7 @@ Microsoft Azure Data Science Associate Certification Learning
     - 3.Exercise - Examine real world data
   - 2.Train and evaluate regression models
     - 1.Exercise - Train and evaluate a regression model
+    - 2.Exercise - Experiment with more powerful regression models
+    - 3.Exercise - Optimize and save models
+
 
