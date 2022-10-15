@@ -14,7 +14,8 @@ Microsoft Azure Data Science Associate Certification Learning
     - 1.Exercise - Train and evaluate a classification model
     - 2.Exercise - Perform classification with alternative metrics
     - 3.Exercise - Train and evaluate multiclass classification models
-  - 
+  - 4.Train and evaluate clustering models
+    - 1.
 
 
 
