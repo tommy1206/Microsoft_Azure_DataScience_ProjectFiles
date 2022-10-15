@@ -1,6 +1,8 @@
 # Microsoft_Azure_DataScience_ProjectFiles
 Microsoft Azure Data Science Associate Certification Learning
 
+For reviewing 
+
 1.Create machine learning models
   - 1.Explore and analyze data with Python
     - 1.Exercise - Explore data with NumPy and Pandas
