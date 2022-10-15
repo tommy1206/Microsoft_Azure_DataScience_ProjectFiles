@@ -3,8 +3,9 @@ Microsoft Azure Data Science Associate Certification Learning
 
 For reviewing 
 
+
+## 1.Create machine learning models
 Mainly Python (on microsoft or colab):
-- 1.Create machine learning models
   - 1.Explore and analyze data with Python
     - 1.Exercise - Explore data with NumPy and Pandas
     - 2.Exercise - Visualize data with Matplotlib
@@ -32,8 +33,8 @@ Mainly Python (on microsoft or colab):
    - 3.change the data file path
 
 
+## 2.Microsoft Azure AI Fundamentals: Explore visual tools for machine learning
 Azure used:
-- 2.Microsoft Azure AI Fundamentals: Explore visual tools for machine learning
    - 1.Use Automated Machine Learning in Azure Machine Learning
      - 1.Exercise - Explore Automated Machine Learning in Azure ML
    - 2.Create a regression model with Azure Machine Learning designer
