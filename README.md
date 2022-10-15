@@ -22,7 +22,9 @@ For reviewing
   - 5.Train and evaluate deep learning models
     - 1.Exercise - Train a deep neural network
     - 2.Exercise - Use transfer learning
-  - Using colab rather than Azure Compute Instance for github practices:
-    - 1.open notebook, select github, then connect the website
-    - 2.copy the file code: !git clone https://github.com/MicrosoftDocs/ml-basics
-    - 3.change the data file path
+ 
+ 
+ Using colab rather than Azure Compute Instance for github practices:
+   - 1.open notebook, select github, then connect the website
+   - 2.copy the file code: !git clone https://github.com/MicrosoftDocs/ml-basics
+   - 3.change the data file path
