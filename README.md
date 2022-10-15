@@ -24,3 +24,5 @@ For reviewing
     - 2.
 
 
+Using colab rather than Azure Compute Instance for github practices:
+code: !git clone https://github.com/MicrosoftDocs/ml-basics
