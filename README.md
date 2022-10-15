@@ -21,7 +21,8 @@ For reviewing
     - 2.Exercise - Train and evaluate advanced clustering models
   - 5.Train and evaluate deep learning models
     - 1.Exercise - Train a deep neural network
-    - 2.Exercise - Use transfer learning
+    - 2.Exercise - Train a convolutional neural network
+    - 3.Exercise - Use transfer learning
  
  
  Using colab rather than Azure Compute Instance for github practices:
