@@ -53,6 +53,14 @@ Azure used with code:
    - 5.Orchestrate machine learning with pipelines
    - 6.Deploy real-time machine learning services with Azure Machine Learning
    - 7.Deploy batch inference pipelines with Azure Machine Learning
+   - 8.Tune hyperparameters with Azure Machine Learning
+   - 9.Automate machine learning model selection with Azure Machine Learning
+   - 10.Explore differential privacy
+   - 11.Explain machine learning models with Azure Machine Learning
+   - 12.Detect and mitigate unfairness in models with Azure Machine Learning
+   - 13.Monitor models with Azure Machine Learning
+   - 14.Monitor data drift with Azure Machine Learning
+   - 15.Explore security concepts in Azure Machine Learning
 
 
 
