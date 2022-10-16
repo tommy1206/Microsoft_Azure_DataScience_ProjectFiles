@@ -44,7 +44,15 @@ Azure used:
    - 4.Create a clustering model with Azure Machine Learning designer
      - 1.Exercise - Explore clustering with Azure Machine Learning designer
 
-
+## 3.Build and operate machine learning solutions with Azure Machine Learning
+Azure used with code:
+   - 1.Introduction to the Azure Machine Learning SDK
+   - 2.Train a machine learning model with Azure Machine Learning
+   - 3.Work with Data in Azure Machine Learning
+   - 4.Work with Compute in Azure Machine Learning
+   - 5.Orchestrate machine learning with pipelines
+   - 6.Deploy real-time machine learning services with Azure Machine Learning
+   - 7.Deploy batch inference pipelines with Azure Machine Learning
 
 
 
